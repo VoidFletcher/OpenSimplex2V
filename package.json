@@ -1,7 +1,7 @@
 {
   "name": "com.voidfletcher.opensimplex2v",
   "displayName": "OpenSimplex2V",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "OpenSimplex2V 3D noise for Unity. A high-performance implementation optimized for Burst and Unity Jobs. Authored by Dylan Engelbrecht (VoidFletcher), based on the OpenSimplex2 algorithm by KdotJPG. Ideal for procedural workflows and voxel-based simulations.",
   "author": {
     "name": "Dylan Engelbrecht",
